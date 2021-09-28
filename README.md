@@ -1,4 +1,5 @@
-### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=mohnish2121&show_icons=true&count_private=true)
+<!-- ### Hi there 👋 -->
 
 <!--
 **mohnish2121/mohnish2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
